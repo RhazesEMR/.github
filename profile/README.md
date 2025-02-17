@@ -6,6 +6,8 @@
     <br>Rhazes EMR
 </h1>
 <p align="center">
-  This organization contains code repositories related to a graduation project. All code and materials here were created
-  for educational purposes as part of academic coursework.
+    <i>
+        This organization contains code repositories related to a graduation project. All code and materials here were created
+        for educational purposes as part of academic coursework.
+    </i>
 </p>
